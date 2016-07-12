@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1 - The basics of HTML, how the web works, file paths, how to indent code, and the structure of code trees.
+
+2 - Mostly everythingm I've dealt with HTML before. It's pretty straightforward.
+
+3 - Indenting code, I'm still working on my indentation skills.
+
+4 - I've been staying calm, knowing I have support everywhere really helps staying on top of things.
